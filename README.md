@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brian-w-ai
-- 👀 I’m interested in web and game dev
+- 👀 I’m interested in web and iOS dev
 - 🌱 I’m currently learning how to create a full stack app. 
 - 📫 How to reach me brianai@ucsb.edu
 
